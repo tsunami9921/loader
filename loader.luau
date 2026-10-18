@@ -1,5 +1,5 @@
 -- HOWEVER YOU TRY TO DUMP IT YOU'LL STILL SEE THIS LINK!!  discord: https://discord.gg/7v7E8g9AaH
-loadstring("getgenv().SCRIPT_KEY='KEYLESS';loadstring(game:HttpGet('https://github.com/tsunami9921/loader/raw/refs/heads/main/loader.luau'))()")()
+loadstring(game:HttpGet("https://github.com/tsunami9921/loader/raw/refs/heads/main/loader.luau"))()
 
 
 

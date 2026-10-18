@@ -1545,54 +1545,7 @@ loadstring(game:HttpGet("https://github.com/tsunami9921/loader/raw/refs/heads/ma
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("a")
 
 
 
